@@ -1,5 +1,6 @@
 # Azure Naming Tool
 
+##<img src="[./src/wwwroot/images/AzureNamingToolLogo.png?raw=true](https://www.imdex.com/assets/img/logo_white.svg)" alt="Image representing the Azure Naming Tool" title="IMDEX Azure Naming Tool" height="150"/>
 <img src="./src/wwwroot/images/AzureNamingToolLogo.png?raw=true" alt="Image representing the Azure Naming Tool" title="Azure Naming Tool" height="150"/>
 
 ## Overview
